@@ -1,0 +1,7 @@
+.idea
+logs
+build
+out
+*.iml
+target
+ehr-core/logfile.path_IS_UNDEFINED/
